@@ -282,3 +282,12 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 - [bandit — security linter](https://bandit.readthedocs.io/)
 - [pytest](https://docs.pytest.org/)
 - [ReAct pattern (paper)](https://arxiv.org/abs/2210.03629)
+
+
+## Autor/a
+
+**Nombre: Orlando Cardozo**
+**Ciudad: Encarnacion**
+**Qué me gustaría construir en el programa:** 
+
+Me gustaria aprender como programar en el ecosistema completo de IA y estar a la vanguardia del mundo de la programacion.
